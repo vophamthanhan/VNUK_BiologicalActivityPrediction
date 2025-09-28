@@ -1,0 +1,4 @@
+Compounds,Type,Tax ID,Organism
+100,CELL-LINE,9606,Homo sapiens
+200,SINGLE PROTEIN,10090,Mus musculus
+150,SMALL MOLECULE,9606,Homo sapiens

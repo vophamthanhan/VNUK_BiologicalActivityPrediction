@@ -1,0 +1,6 @@
+Compounds,Type,Tax ID,Organism
+100,CELL-LINE,9606,Homo sapiens
+150,SMALL MOLECULE,9606,Homo sapiens
+200,SINGLE PROTEIN,10090,Mus musculus
+250,SINGLE PROTEIN,10116,Rattus norvegicus
+300,CELL-LINE,3702,Arabidopsis thaliana

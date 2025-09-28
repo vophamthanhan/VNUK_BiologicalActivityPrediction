@@ -1,0 +1,6 @@
+Compounds,Type,Tax ID,Organism
+95,SINGLE PROTEIN,9606,Homo sapiens
+80,SMALL MOLECULE,10116,Rattus norvegicus
+180,CELL-LINE,3702,Arabidopsis thaliana
+210,SMALL MOLECULE,7955,Danio rerio
+170,SINGLE PROTEIN,7227,Drosophila melanogaster
